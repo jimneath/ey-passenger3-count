@@ -1,1 +1,1 @@
-passenger_worker_count 6
+passenger_worker_count 9
